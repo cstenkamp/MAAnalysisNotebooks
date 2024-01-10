@@ -4,4 +4,3 @@ dataclasses
 numpy
 matplotlib
 pandas
-mpl_toolkits
